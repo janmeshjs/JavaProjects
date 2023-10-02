@@ -26,9 +26,9 @@ To get started with Hacktoberfest and contribute to the Java Projects Hub:
 
 2. Fork this repository to your GitHub account.
 
-3. Clone the forked repository to your local machine: git clone https://github.com/yourusername/Java-Projects-Hub.git
+3. Clone the forked repository to your local machine:
    ```
-   git clone https://github.com/yourusername/Java-Projects-Hub.git
+   git clone https://github.com/janmeshjs/JavaProjects.git
    ```
  
 4. Create a new branch for your contributions:
