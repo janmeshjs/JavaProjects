@@ -1,4 +1,3 @@
---
 Language: Java
 AccessModifierOffset: -4
 AlignAfterOpenBracket: DontAlign
@@ -133,4 +132,3 @@ StatementMacros:
 TabWidth:        8
 UseCRLF:         false
 UseTab:          Never
-...
