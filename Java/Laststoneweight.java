@@ -1,5 +1,5 @@
 import java.util.Collections;
-import java.util.PriorityQueue;
+import java.util.*;
 
 public class Laststoneweight {
     public int lastStoneWeight(int[] stones) {
@@ -14,7 +14,6 @@ public class Laststoneweight {
             if(st1==st2) continue;
             else pq.add(st1-st2);
         }
-        
         if(pq.size()==1) return pq.poll();
         else return 0;
     }
